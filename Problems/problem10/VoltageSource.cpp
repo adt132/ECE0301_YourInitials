@@ -2,5 +2,5 @@
 
 double VoltageSource::get_voltage() const
 {
-  return get_voltage();
+  return get_value();
 }
